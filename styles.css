@@ -43,7 +43,7 @@ a.curlvid{
 }
 
 a.curlvid:hover{
-  color: #2d132c;
+  color: #6699ff;
 }
 
 .container-full {
@@ -53,7 +53,7 @@ a.curlvid:hover{
 
 .top{
   padding-top: 5%;
-  background-color: #2d132c;
+  background-color: #0044cc;
 }
 
 .middle{
@@ -63,7 +63,7 @@ a.curlvid:hover{
 
 .bottom{
   font-size: 1rem;
-  background-color: #2d132c;
+  background-color: #0044cc;
   padding: 50px 0 20px
 }
 
